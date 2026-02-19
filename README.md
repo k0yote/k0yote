@@ -7,13 +7,14 @@ I love building scalable systems, secure smart-contract architectures, and beaut
 
 ## 🌐 Portfolio  
 🖥 **My Portfolio Website:**  
-👉 https://homepage-lake-kappa.vercel.app
+👉 [https://k0yote.dev](https://k0yote.dev)
 
 ---
 
 ## 📫 Contact  
 - ✉️ Email: yjmk0yote@gmail.com  
-- 🌐 LinkedIn: www.linkedin.com/in/jongmin-yu-35b154b9 
+- 🌐 LinkedIn: www.linkedin.com/in/jongmin-yu-35b154b9
+
 
 
 <!---
