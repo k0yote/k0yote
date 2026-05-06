@@ -12,7 +12,7 @@ I love building scalable systems, secure smart-contract architectures, and beaut
 ---
 
 ## 📫 Contact  
-- ✉️ Email: yjmk0yote@gmail.com  
+- ✉️ Email: contact@k0yote.dev
 - 🌐 LinkedIn: www.linkedin.com/in/jongmin-yu-35b154b9
 
 
